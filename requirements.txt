@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-openai
+langchain-community
+langgraph
+pandas
+numpy
+plotly
+altair
+python-dotenv
+duckduckgo-search>=5.0
+fpdf2
+ddgs
