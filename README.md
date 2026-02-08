@@ -30,10 +30,11 @@
 ## 📸 스크린샷 (Screenshots)
 
 ### 🖥️ 메인 화면 & 포트폴리오 추천
-![App UI Demo](docs/app_ui_demo.png)
+<img src="docs/app_ui_demo.png" alt="App UI Demo" width="60%">
+
 
 ### 📄 전문 투자 보고서 (PDF Export)
-![PDF Report Sample](docs/pdf_report_sample.png)
+<img src="docs/pdf_report_sample.png" alt="PDF Report Sample" width="50%">
 
 ---
 
@@ -50,12 +51,12 @@
 - **GPT-4 분석**: 검색 결과를 요약하고 리스크 관점에서 해석
 - **동적 쿼리 생성**: 일반 시장 질문과 특정 종목 질문을 자동 구분
 
-### � 몬테카를로 시뮬레이션
+### 🕹️ 몬테카를로 시뮬레이션
 - **과거 성과 백테스트**: 역사적 데이터를 기반으로 포트폴리오 성과 재현
 - **미래 예측**: 90% 신뢰구간으로 향후 자산 가치 범위 시뮬레이션
 - **Interactive Charts**: Plotly 기반 차트로 확대/축소 및 세부 데이터 분석 가능
 
-### � 위기 스트레스 테스트
+### 🧐 위기 스트레스 테스트
 - **역사적 위기 시나리오**: 2008 금융위기, 2020 코로나 팬데믹, 2022 고금리 하락장 등
 - **MDD 비교**: 내 포트폴리오의 최대낙폭(MDD)을 시장(S&P 500)과 비교
 - **방어력 평가**: PASS/WARNING 결과로 리스크 관리 성과 즉시 확인
