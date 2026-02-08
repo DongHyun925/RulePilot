@@ -30,7 +30,7 @@
 ## 📸 스크린샷 (Screenshots)
 
 ### 🖥️ 메인 화면 & 포트폴리오 추천
-<img src="docs/app_ui_demo.png" alt="App UI Demo" width="60%">
+<img src="docs/app_ui_demo.png" alt="App UI Demo" width="70%">
 
 
 ### 📄 전문 투자 보고서 (PDF Export)
